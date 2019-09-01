@@ -1,0 +1,42 @@
+Borough,Neighbourhood,Hotel_ID,Hotel_Name,Category_NM,Category_ID,Latitude,Longtude
+Bronx,Co-op City,54932887498ee0902b1ed511,Residence Inn by Marriott New York The Bronx at Metro Center Atrium,Hotel,4bf58dd8d48988d1fa931735,40.8500198,-73.8425791
+Bronx,City Island,54932887498ee0902b1ed511,Residence Inn by Marriott New York The Bronx at Metro Center Atrium,Hotel,4bf58dd8d48988d1fa931735,40.8500198,-73.8425791
+Bronx,Throgs Neck,54932887498ee0902b1ed511,Residence Inn by Marriott New York The Bronx at Metro Center Atrium,Hotel,4bf58dd8d48988d1fa931735,40.8500198,-73.8425791
+Bronx,Pelham Bay,54932887498ee0902b1ed511,Residence Inn by Marriott New York The Bronx at Metro Center Atrium,Hotel,4bf58dd8d48988d1fa931735,40.8500198,-73.8425791
+Brooklyn,Greenpoint,4ab04eb9f964a520fe6620e3,The Bowery Hotel,Hotel,4bf58dd8d48988d1fa931735,40.72614466252136,-73.99162708611642
+Brooklyn,Greenpoint,4ae6f117f964a520a6a721e3,The NoMad Hotel,Hotel,4bf58dd8d48988d1fa931735,40.74498114811664,-73.98881884246589
+Brooklyn,Williamsburg,56f32b83cd1058e40988b7e4,The William Vale Hotel,Hotel,4bf58dd8d48988d1fa931735,40.722300487960176,-73.9567221147578
+Brooklyn,Williamsburg,51050d4e5262d6654ddc83e1,CitizenM Bowery,Hotel,4bf58dd8d48988d1fa931735,40.720599497806894,-73.99357438087463
+Brooklyn,Cobble Hill,56d8c0f8498edb854f926e6a,The Beekman - A Thompson Hotel,Hotel,4bf58dd8d48988d1fa931735,40.7111725,-74.0067017
+Brooklyn,Cobble Hill,57c640ad498e74977f98372f,Four Seasons Hotel New York Downtown,Hotel,4bf58dd8d48988d1fa931735,40.71261246501983,-74.00938032087628
+Brooklyn,Carroll Gardens,57ed4330498e34539123c310,1 Hotel Brooklyn Bridge,Hotel,4bf58dd8d48988d1fa931735,40.7022281537535,-73.99538028700046
+Brooklyn,Red Hook,57ed4330498e34539123c310,1 Hotel Brooklyn Bridge,Hotel,4bf58dd8d48988d1fa931735,40.7022281537535,-73.99538028700046
+Brooklyn,East Williamsburg,56f32b83cd1058e40988b7e4,The William Vale Hotel,Hotel,4bf58dd8d48988d1fa931735,40.722300487960176,-73.9567221147578
+Brooklyn,East Williamsburg,58dd3f6814f8f401b39e68c5,Hoxton Hotel,Hotel,4bf58dd8d48988d1fa931735,40.720850504565355,-73.95881707076565
+Manhattan,Upper West Side,4ae0fa2ff964a5203d8421e3,Mandarin Oriental,Hotel,4bf58dd8d48988d1fa931735,40.7689873,-73.9830172
+Manhattan,Upper West Side,49d18dfdf964a5208f5b1fe3,The Plaza Hotel,Hotel,4bf58dd8d48988d1fa931735,40.764518861000695,-73.97448778152466
+Manhattan,Chelsea,4ae6f117f964a520a6a721e3,The NoMad Hotel,Hotel,4bf58dd8d48988d1fa931735,40.74498114811664,-73.98881884246589
+Queens,Woodside,5578639e498eb1d3badc495f,Boro Hotel,Hotel,4bf58dd8d48988d1fa931735,40.75470764443467,-73.93582365420063
+Queens,Sunnyside,56f32b83cd1058e40988b7e4,The William Vale Hotel,Hotel,4bf58dd8d48988d1fa931735,40.722300487960176,-73.9567221147578
+Queens,Sunnyside,58dd3f6814f8f401b39e68c5,Hoxton Hotel,Hotel,4bf58dd8d48988d1fa931735,40.720850504565355,-73.95881707076565
+Queens,South Ozone Park,584f62704e31c54d29e87bee,TWA Hotel,Hotel,4bf58dd8d48988d1fa931735,40.6457314,-73.7777075
+Queens,Springfield Gardens,584f62704e31c54d29e87bee,TWA Hotel,Hotel,4bf58dd8d48988d1fa931735,40.6457314,-73.7777075
+Queens,Rosedale,584f62704e31c54d29e87bee,TWA Hotel,Hotel,4bf58dd8d48988d1fa931735,40.6457314,-73.7777075
+Queens,Rockaway Beach,5717bc73498ec5d6759b6935,La Quinta Inn & Suites Far Rockaway - JFK Airport,Hotel,4bf58dd8d48988d1fa931735,40.59285,-73.78237
+Staten Island,Mariner's Harbor,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Port Ivory,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Port Ivory,4bc6568abf29c9b6a6b7f92a,Courtyard by Marriott Newark Elizabeth,Hotel,4bf58dd8d48988d1fa931735,40.66291300509411,-74.17850355617702
+Staten Island,New Springville,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Travis,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Travis,5cd28f037dc9e1002c64e0f9,Fairfield Inn & Suites,Hotel,4bf58dd8d48988d1fa931735,40.586652,-74.19116
+Staten Island,Westerleigh,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Graniteville,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Arlington,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Chelsea,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Bloomfield,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Bulls Head,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Staten Island,Elm Park,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
+Manhattan,Turtle Bay,49d18dfdf964a5208f5b1fe3,The Plaza Hotel,Hotel,4bf58dd8d48988d1fa931735,40.764518861000695,-73.97448778152466
+Manhattan,Turtle Bay,4ae6f117f964a520a6a721e3,The NoMad Hotel,Hotel,4bf58dd8d48988d1fa931735,40.74498114811664,-73.98881884246589
+Manhattan,Turtle Bay,56d61e11498e4c3c305da704,Riu Plaza Times Square Hotel,Resort,4bf58dd8d48988d12f951735,40.76017910501307,-73.98802929364761
+Staten Island,Willowbrook,4ba43a73f964a520f08d38e3,Hilton Garden Inn Staten Island,Hotel,4bf58dd8d48988d1fa931735,40.61483183227476,-74.17664555836382
